@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sneakershop"
+    }
+  },
+  "defaultProject": "sneakershop",
+  "cli": {
+    "analytics": "517d9c70-66c1-47bc-a527-f6c194782fbb"
+  }
 }
